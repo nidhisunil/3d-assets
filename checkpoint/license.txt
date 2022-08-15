@@ -1,0 +1,11 @@
+Model Information:
+* title:	Checkpoint
+* source:	https://sketchfab.com/3d-models/checkpoint-5d8430087e394ffd863a371afd26138a
+* author:	Glyus (https://sketchfab.com/Glyus)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Checkpoint" (https://sketchfab.com/3d-models/checkpoint-5d8430087e394ffd863a371afd26138a) by Glyus (https://sketchfab.com/Glyus) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
