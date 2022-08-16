@@ -1,0 +1,11 @@
+Model Information:
+* title:	Greater plantain
+* source:	https://sketchfab.com/3d-models/greater-plantain-c7c1ef3a40d140daa47ba075997cf12e
+* author:	laurianebc (https://sketchfab.com/laurianebc)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Greater plantain" (https://sketchfab.com/3d-models/greater-plantain-c7c1ef3a40d140daa47ba075997cf12e) by laurianebc (https://sketchfab.com/laurianebc) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
